@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '34998'
     url: http://www.gutenberg.org/2009/agents/34998
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31091#Cedar-Creek--From-the-Shanty-to-the-Settlement.-A-Tale-of-Canadian-Life
 gutenberg_issued: '2010-01-26'
 gutenberg_type: Text
 identifiers:
